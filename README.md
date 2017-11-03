@@ -1,2 +1,2 @@
 # homebrew-oven
-Homebrew formular repository
+Homebrew formula repository
