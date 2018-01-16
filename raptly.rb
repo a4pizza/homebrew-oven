@@ -2,7 +2,7 @@ class Raptly < Formula
   desc "A remote command line tool for Aptly"
   homepage "https://github.com/a4pizza/test1"
   url "https://github.com/a4pizza/test1/archive/2.1.29.tar.gz"
-  sha256 "008cce11823624b3cd754be853cd487c34b808031f425a3bca849c09800fdf31"
+  sha256 "b7fca1d1663b4f0324cd26a1dca63e12c1415fb083f35b2e838843ac6a90c696"
   version "2.1.29"
 
   resource "certifi" do
